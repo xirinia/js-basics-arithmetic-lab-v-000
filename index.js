@@ -11,3 +11,4 @@ var newID = 1000000000 + oldID;
 var ageIsValid = Number.isInteger(currentAge);
 var randomNumber = Math.floor(Math.random() * 20) ;
 var randomInteger = Math.floor(randomNumber);
+var randomUserID = randomNumber + 1000000000;
